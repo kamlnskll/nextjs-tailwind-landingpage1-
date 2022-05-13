@@ -1,9 +1,34 @@
-# nextjs-tailwind-landingpage1-
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-This project is my very first project built completely without video tutorial using Next.JS and TailWindCSS - the actual site content is completely satirical as you will see if you decide to check it out.
+## Getting Started
 
-The inspiration behind this extremely basic landing page was to put the rubber to the road as they say, and to get some hands on practice with NextJS and React components, working with JSX and Tailwind together, and using basic JSON to map customer testimonials into each testimonial card, but also with a POST request in the checkout page.
+First, run the development server:
 
- As of right now, my knowledge surround best UX/UI practices is virtually zero and this is one area that I will focus on improving moving forward for my next projects, because I think some minor adjustments to my elements/components of the site would look better.
- 
- For my next project, I will focus on learning and implementing at least a few (3-4) elements, whether that be buttons, lists, info cards etc, according to these best practices. Secondly, I want to up the complexity - likely I will try to create a blog/content website that connects to a Headless CMS such as Wordpress or GraphCMS (along the same idea as the other blog I uploaded to my GitHub, except this time without a tutorial and with my own design.) or maybe something less extensive like some sort of CRUD list app. I still plan to update this landing page, but the frequency will be unknown.
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+
+## Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
