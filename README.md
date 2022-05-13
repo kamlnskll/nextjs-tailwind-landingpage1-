@@ -1,6 +1,6 @@
 # nextjs-tailwind-landingpage1-
 
-This project is my very first project built completely without video tutorial using Next.JS and TailWindCSS - the page is completely satirical as you will see if you decided to check it out.
+This project is my very first project built completely without video tutorial using Next.JS and TailWindCSS - the actual site content is completely satirical as you will see if you decide to check it out.
 
 The inspiration behind this extremely basic landing page was to put the rubber to the road as they say, and to get some hands on practice with NextJS and React components, working with JSX and Tailwind together, and using basic JSON to map customer testimonials into each testimonial card, but also with a POST request in the checkout page.
 
